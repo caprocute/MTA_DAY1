@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{7D136A61-81DA-40DF-9CB0-C5D402235458}|Default">
+  <MonoDevelop.Ide.ItemProperties.MTA__P2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MTA__P3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MTA__P4 FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MTA_P4/Program.cs">
+    <Files>
+      <File FileName="MTA_P4/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MTA_P1" expanded="True">
+            <Node name="MTA_P4" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>salary</Value>
+          <Value>step</Value>
+          <Value>bill</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MTA__P1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
