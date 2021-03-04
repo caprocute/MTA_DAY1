@@ -1,0 +1,15 @@
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/bin/Debug/net5.0/MTA_P8.deps.json
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/bin/Debug/net5.0/MTA_P8.runtimeconfig.json
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/bin/Debug/net5.0/MTA_P8.runtimeconfig.dev.json
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/bin/Debug/net5.0/MTA_P8.dll
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/bin/Debug/net5.0/ref/MTA_P8.dll
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/bin/Debug/net5.0/MTA_P8.pdb
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/obj/Debug/net5.0/MTA_P8.csprojAssemblyReference.cache
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/obj/Debug/net5.0/MTA_P8.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/obj/Debug/net5.0/MTA_P8.AssemblyInfoInputs.cache
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/obj/Debug/net5.0/MTA_P8.AssemblyInfo.cs
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/obj/Debug/net5.0/MTA_P8.csproj.CoreCompileInputs.cache
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/obj/Debug/net5.0/MTA_P8.dll
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/obj/Debug/net5.0/ref/MTA_P8.dll
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/obj/Debug/net5.0/MTA_P8.pdb
+/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P8/obj/Debug/net5.0/MTA_P8.genruntimeconfig.cache

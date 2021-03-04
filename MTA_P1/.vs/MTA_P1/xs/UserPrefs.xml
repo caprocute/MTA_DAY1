@@ -1,17 +1,17 @@
-﻿<Properties StartupConfiguration="{CD51270A-9449-410C-9256-29F6979300CE}|Default">
+﻿<Properties StartupConfiguration="{A1F466C2-256D-43C9-A17C-E099EDB0B25F}|Default">
   <MonoDevelop.Ide.ItemProperties.MTA__P2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MTA__P3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MTA__P4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MTA__P6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MTA_P7/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MTA_P8/Program.cs">
     <Files>
-      <File FileName="MTA_P7/Program.cs" Line="1" Column="1" />
+      <File FileName="MTA_P8/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MTA_P1" expanded="True">
-            <Node name="MTA_P7" expanded="True">
+            <Node name="MTA_P8" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -29,8 +29,9 @@
   <MonoDevelop.Ide.ItemProperties.MTA__P5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.MTA__P1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.MTA__P7 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.MTA__P7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MTA__P8 FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Volumes/Workzone/1_Soucore/28_MTA_CERTIFICATE_PROJECT/baitap_day1/MTA_DAY1/MTA_P1/MTA_P5/Program.cs" relfile="MTA_P5/Program.cs" line="17" column="1" />
